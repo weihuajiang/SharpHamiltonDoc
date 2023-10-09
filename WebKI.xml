@@ -1,0 +1,848 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Abort enumeration member" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+  <HelpKINode Title="Abort method" Url="html/ab619dc3-fd06-286e-5617-fbeb26a056e3.htm" />
+  <HelpKINode Title="Absolute enumeration member" Url="html/ff394a30-f875-04d3-9ce9-1e93649ad649.htm" />
+  <HelpKINode Title="Acceleration property" Url="html/6d48d415-37d1-8946-f530-4d6d36fab033.htm" />
+  <HelpKINode Title="AddContainerToRack method" Url="html/a2c230ec-bdf3-1d6c-adca-9902325d51cc.htm" />
+  <HelpKINode Title="AddLabware method" Url="html/56f60c57-fde1-46c5-8944-cb7d59c66a31.htm" />
+  <HelpKINode Title="AddLabwareToDeckSite method" Url="html/52697276-869a-5b45-fed9-45a9cebbb1c2.htm" />
+  <HelpKINode Title="AdvancedParameter class">
+    <HelpKINode Title="AdvancedParameter Class" Url="html/c5eb59ab-44ba-ee94-779c-d137c4fd5630.htm" />
+    <HelpKINode Title="constructor" Url="html/b746de3a-feb7-d458-249b-650447601018.htm" />
+    <HelpKINode Title="properties" Url="html/6808ba30-a38b-f755-7fd9-0eca263ee2f7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AdvancedParameter.AdvancedParameter constructor" Url="html/b746de3a-feb7-d458-249b-650447601018.htm" />
+  <HelpKINode Title="AdvancedParameter.LiquidFollowing property" Url="html/9735b815-7158-b797-c592-3b8c3998127a.htm" />
+  <HelpKINode Title="AdvancedParameter.MixCycle property" Url="html/48cdc4c8-3fa1-d913-6baa-60657f88d1f8.htm" />
+  <HelpKINode Title="AdvancedParameter.MixPosition property" Url="html/0d26bbf5-140a-019f-2f24-c3a7d8433a79.htm" />
+  <HelpKINode Title="AdvancedParameter.MixVolume property" Url="html/a95e420c-1fcd-1605-26fa-2a8a03ad9d1e.htm" />
+  <HelpKINode Title="AdvancedParameter.ZMOveAfterDispense property" Url="html/4d84c324-7f6a-ab4f-b825-a2172d864c4b.htm" />
+  <HelpKINode Title="AdvancedParameters property">
+    <HelpKINode Title="CLLDParameter.AdvancedParameters Property " Url="html/831d325e-e17f-ec20-7111-d0f1ff0e1e21.htm" />
+    <HelpKINode Title="FixHeightParameter.AdvancedParameters Property " Url="html/bd6d0680-93ee-894d-c57d-f6a352f57c14.htm" />
+    <HelpKINode Title="IParameter.AdvancedParameters Property " Url="html/85481ce4-1341-bc06-dbc9-b4492b7ecd18.htm" />
+    <HelpKINode Title="LLDsParameter.AdvancedParameters Property " Url="html/95ec14bc-e3b1-cb12-926e-965d6a64672b.htm" />
+    <HelpKINode Title="SideTouchParameter.AdvancedParameters Property " Url="html/4c965fc5-6fcb-87c9-7c51-c0bd5e76dffe.htm" />
+    <HelpKINode Title="TouchOffParameter.AdvancedParameters Property " Url="html/dab71cfc-ee2f-601e-a6f2-272975a6839d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Air enumeration member" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+  <HelpKINode Title="All enumeration member" Url="html/3566761b-e157-6619-8ca7-37c4e3a696fe.htm" />
+  <HelpKINode Title="AntiDropControlError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="AntiDropletControl property" Url="html/c8e7c644-092f-9224-f754-469e1cca0496.htm" />
+  <HelpKINode Title="AreaAlreadyOccupied enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="Arm class">
+    <HelpKINode Title="Arm Class" Url="html/56e0a229-4592-4934-7dc7-7835c14f0669.htm" />
+    <HelpKINode Title="methods" Url="html/c9c06d34-702e-73f3-3009-b1caac7f526f.htm" />
+    <HelpKINode Title="properties" Url="html/06eaf176-65df-247f-3bd5-3893fe6697b5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Arm.Acceleration property" Url="html/6d48d415-37d1-8946-f530-4d6d36fab033.htm" />
+  <HelpKINode Title="Arm.IsInstalled property" Url="html/9e8f582e-b6e3-f6ca-e607-c2e7d2e3322e.htm" />
+  <HelpKINode Title="Arm.MaximalPosition property" Url="html/cbb93d9e-f449-648a-9d0c-efb6a9e59890.htm" />
+  <HelpKINode Title="Arm.MinimalPosition property" Url="html/554ac115-73ea-5e2e-7ee3-205becd0ea30.htm" />
+  <HelpKINode Title="Arm.Move method" Url="html/c6a44d71-0d66-e63b-5bca-a3dd139e0fd9.htm" />
+  <HelpKINode Title="Arm.Position property" Url="html/b0763b6c-d042-33e7-d3e0-cb207431963d.htm" />
+  <HelpKINode Title="Arm.Speed property" Url="html/c3f8404f-1d70-1b37-029d-932a6283d3d3.htm" />
+  <HelpKINode Title="Arm.WrapSize property" Url="html/d5987dce-31a4-e3de-c0cc-46dc7328edcd.htm" />
+  <HelpKINode Title="AskForRecovery method" Url="html/0de4cece-d111-3904-92f6-0b98755284bb.htm" />
+  <HelpKINode Title="Aspirate method" Url="html/29a480f3-ac4a-4c3b-0964-75ad7fb52e82.htm" />
+  <HelpKINode Title="AspirateAll enumeration member" Url="html/6c07796e-cd0f-a490-e48e-f9bb12231e09.htm" />
+  <HelpKINode Title="AspirateMode enumeration" Url="html/6c07796e-cd0f-a490-e48e-f9bb12231e09.htm" />
+  <HelpKINode Title="Aspiration enumeration member" Url="html/6c07796e-cd0f-a490-e48e-f9bb12231e09.htm" />
+  <HelpKINode Title="AspirationMonitoring property" Url="html/70d992cc-2f19-8dd4-be6c-cd226b838981.htm" />
+  <HelpKINode Title="Available enumeration member" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+  <HelpKINode Title="Barcode enumeration member" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+  <HelpKINode Title="Barcode property">
+    <HelpKINode Title="Container.Barcode Property " Url="html/697f2509-1093-b486-1909-f5a4aae3e839.htm" />
+    <HelpKINode Title="Rack.Barcode Property " Url="html/6dfc24fe-a9c8-c252-ed11-2ccf7ffb47de.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BarcodeAlreadyUsedError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="BarcodeError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="BarcodeMask property" Url="html/e04dd399-60c7-d67d-a1d9-8e3a07adbadb.htm" />
+  <HelpKINode Title="BarcodeMaskError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="BarcodeNotUniqueError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="BinPath property" Url="html/45bbf6e1-b455-4913-79f7-b1260211e340.htm" />
+  <HelpKINode Title="BlowoutTip enumeration member" Url="html/6b666194-f48a-ae34-ab6e-c9cd44424afa.htm" />
+  <HelpKINode Title="Bottom enumeration member" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+  <HelpKINode Title="CalibrateError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="Cancel enumeration member" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+  <HelpKINode Title="CancelAllErrors property" Url="html/0a010d98-40b3-2b0e-4a07-a6d5158e4894.htm" />
+  <HelpKINode Title="Channel class">
+    <HelpKINode Title="Channel Class" Url="html/2ab3b138-9981-b3ba-4e93-c55fb120ea07.htm" />
+    <HelpKINode Title="methods" Url="html/7338ae45-e311-7dc3-c991-a415093040b9.htm" />
+    <HelpKINode Title="properties" Url="html/6b37600d-31eb-6ac5-e2b2-3ba59c87db66.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Channel property" Url="html/b48e267c-268b-c53b-ecbc-168502d7086f.htm" />
+  <HelpKINode Title="Channel.AntiDropletControl property" Url="html/c8e7c644-092f-9224-f754-469e1cca0496.htm" />
+  <HelpKINode Title="Channel.Aspirate method" Url="html/29a480f3-ac4a-4c3b-0964-75ad7fb52e82.htm" />
+  <HelpKINode Title="Channel.AspirationMonitoring property" Url="html/70d992cc-2f19-8dd4-be6c-cd226b838981.htm" />
+  <HelpKINode Title="Channel.ClotDetectionMonitoring property" Url="html/f9e1c832-5b27-dacd-1bf3-fb7256bdef96.htm" />
+  <HelpKINode Title="Channel.Count property" Url="html/ea27f140-2bc1-1957-6299-e2d05f604db6.htm" />
+  <HelpKINode Title="Channel.Dispense method" Url="html/d6497ea8-f4f6-abcc-d9fb-0219877c9928.htm" />
+  <HelpKINode Title="Channel.EjectTip method" Url="html/7a525869-4422-7205-839b-d756beff7993.htm" />
+  <HelpKINode Title="Channel.GetExcludeState method" Url="html/6f45deae-fb41-462b-e75b-c3ac653f0c73.htm" />
+  <HelpKINode Title="Channel.GetLastLiquidLevel method" Url="html/c84a13a6-930d-73cc-a559-2d9444b6efc9.htm" />
+  <HelpKINode Title="Channel.Move method" Url="html/27b91566-fb6c-070c-bfbd-8f2f863fa144.htm" />
+  <HelpKINode Title="Channel.PickupTip method" Url="html/f919fdd1-6d7a-bb7b-ed3c-b08ac0b7fa31.htm" />
+  <HelpKINode Title="Channel.PressureThreshold property" Url="html/564b4b3c-102e-2d48-f043-8e1881e9ee0d.htm" />
+  <HelpKINode Title="Channel.SetTipTrackSpeed method" Url="html/33610e47-7d4e-5b98-9cfb-6a7df64e4df0.htm" />
+  <HelpKINode Title="Channel.TADMRecordMode property" Url="html/316d1b6c-3dbd-30a9-aab0-58249c9cd67c.htm" />
+  <HelpKINode Title="Channel.TADMUploadMode property" Url="html/57ce0182-f6cd-a259-36a6-6c5d9731db67.htm" />
+  <HelpKINode Title="Channel.WaitForTadmUpload method" Url="html/804478e0-3476-0940-fa1c-1223c0494570.htm" />
+  <HelpKINode Title="Channel.YRaster property" Url="html/9f3b8cd4-afba-e809-f5d6-e8610ca3ae16.htm" />
+  <HelpKINode Title="CIRC enumeration member" Url="html/bc5956e6-2e2b-7b11-7f36-3ba5db929413.htm" />
+  <HelpKINode Title="Clearance property" Url="html/6201c62d-2ee4-2acf-7902-033f1f52e6a2.htm" />
+  <HelpKINode Title="CLLD property" Url="html/a663bdee-2665-7a6c-b9f8-18ee3769bd14.htm" />
+  <HelpKINode Title="CLLDParameter class">
+    <HelpKINode Title="CLLDParameter Class" Url="html/4ebfdae6-4165-7efb-09fb-d5436fd727c1.htm" />
+    <HelpKINode Title="constructor" Url="html/0e36e1f6-9f6e-9dc9-4f39-e3890a5e4517.htm" />
+    <HelpKINode Title="properties" Url="html/4d143a22-3b9a-0382-dcba-dc001303ba12.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CLLDParameter.AdvancedParameters property" Url="html/831d325e-e17f-ec20-7111-d0f1ff0e1e21.htm" />
+  <HelpKINode Title="CLLDParameter.CLLDParameter constructor" Url="html/0e36e1f6-9f6e-9dc9-4f39-e3890a5e4517.htm" />
+  <HelpKINode Title="CLLDParameter.cLLDSensitivity property" Url="html/12049326-7dcd-c43b-8208-b41e3f4a8cd8.htm" />
+  <HelpKINode Title="CLLDParameter.LiquidClassParameter property" Url="html/056f452f-9e7a-10e4-29b0-929238695f05.htm" />
+  <HelpKINode Title="CLLDParameter.SubmergeDepth property" Url="html/2bc4ead3-5d85-1010-6b9f-03f12c246041.htm" />
+  <HelpKINode Title="cLLDSensitivity property">
+    <HelpKINode Title="CLLDParameter.cLLDSensitivity Property " Url="html/12049326-7dcd-c43b-8208-b41e3f4a8cd8.htm" />
+    <HelpKINode Title="LLDsParameter.cLLDSensitivity Property " Url="html/4faafed6-21ad-f904-cac8-5a2f3a63fa90.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ClotDetectionMonitoring property" Url="html/f9e1c832-5b27-dacd-1bf3-fb7256bdef96.htm" />
+  <HelpKINode Title="ClotError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="Color property" Url="html/926b0463-fe78-a3fe-dd0d-ac6586500114.htm" />
+  <HelpKINode Title="Command property" Url="html/39a0f687-b740-11ae-c35c-3cbfbcf23d48.htm" />
+  <HelpKINode Title="Complete enumeration member" Url="html/e85812a2-ba3b-e99b-1ac9-1c505414bd8c.htm" />
+  <HelpKINode Title="CompletedWithError enumeration member" Url="html/e85812a2-ba3b-e99b-1ac9-1c505414bd8c.htm" />
+  <HelpKINode Title="ComputeVolume method" Url="html/926d0dc2-4ecf-bfb5-7230-b0817e74a667.htm" />
+  <HelpKINode Title="CONE enumeration member" Url="html/bc5956e6-2e2b-7b11-7f36-3ba5db929413.htm" />
+  <HelpKINode Title="ConfigPath property" Url="html/ad986c91-af96-f3b7-34c6-cf88a5e49f25.htm" />
+  <HelpKINode Title="ConsecutiveAspiration enumeration member" Url="html/6c07796e-cd0f-a490-e48e-f9bb12231e09.htm" />
+  <HelpKINode Title="Container class">
+    <HelpKINode Title="Container Class" Url="html/8d92c535-5e6f-0f57-9e87-bef54a33caef.htm" />
+    <HelpKINode Title="constructor" Url="html/28dfde1f-faf0-d294-c2a1-85feb54e071e.htm" />
+    <HelpKINode Title="methods" Url="html/917d0dcc-33ef-fd9c-3d7a-adb413e8e220.htm" />
+    <HelpKINode Title="properties" Url="html/67c36f07-1951-c4e1-040c-72c89e0106f5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Container.Barcode property" Url="html/697f2509-1093-b486-1909-f5a4aae3e839.htm" />
+  <HelpKINode Title="Container.Clearance property" Url="html/6201c62d-2ee4-2acf-7902-033f1f52e6a2.htm" />
+  <HelpKINode Title="Container.CLLD property" Url="html/a663bdee-2665-7a6c-b9f8-18ee3769bd14.htm" />
+  <HelpKINode Title="Container.ComputeVolume method" Url="html/926d0dc2-4ecf-bfb5-7230-b0817e74a667.htm" />
+  <HelpKINode Title="Container.Container constructor" Url="html/28dfde1f-faf0-d294-c2a1-85feb54e071e.htm" />
+  <HelpKINode Title="Container.Depth property" Url="html/1af29b00-c884-e930-cf89-020f5b077420.htm" />
+  <HelpKINode Title="Container.Diameter property" Url="html/4312f530-1045-2bd6-33ff-9ed57be819e3.htm" />
+  <HelpKINode Title="Container.File property" Url="html/8002c227-0a30-eafc-8d74-06ffd7ff2bcd.htm" />
+  <HelpKINode Title="Container.IsVisble property" Url="html/aec41291-94f9-de69-22a4-a9c41d359eee.htm" />
+  <HelpKINode Title="Container.Labware property" Url="html/4d07380c-12b6-a04f-ad88-2eb2cd9e60d5.htm" />
+  <HelpKINode Title="Container.LiquidSeekingStartPosition property" Url="html/16c6adeb-19fc-d493-2019-a4b3ce552cbf.htm" />
+  <HelpKINode Title="Container.LiquidSeekValid property" Url="html/f9ef69c8-d24b-50ce-8523-72285ce13278.htm" />
+  <HelpKINode Title="Container.MaxPipettingDepth property" Url="html/9a156874-0c77-4315-2b14-010ffc5ec4ca.htm" />
+  <HelpKINode Title="Container.Position property" Url="html/865b2973-bc59-e8fa-c15d-af63d4455e12.htm" />
+  <HelpKINode Title="Container.Segments property" Url="html/a74249d6-45f6-1f50-d45a-857a9e057fca.htm" />
+  <HelpKINode Title="Container.Shape property" Url="html/2c33219b-e061-fedb-c01b-689e43e589b4.htm" />
+  <HelpKINode Title="Container.State property" Url="html/c0789ebe-b428-a5f2-55aa-bc154aa9b70a.htm" />
+  <HelpKINode Title="Container.Tag property" Url="html/0cc7beca-0cca-32a1-1809-486da53e2b4e.htm" />
+  <HelpKINode Title="Container.X property" Url="html/c588e7d8-c4b7-8f3a-e471-a2df658e3cdc.htm" />
+  <HelpKINode Title="Container.XDim property" Url="html/1d76bd5f-f22c-a642-0571-d1f2699c0c0d.htm" />
+  <HelpKINode Title="Container.Y property" Url="html/18d7e101-8153-b081-ba16-69cf97b8de7c.htm" />
+  <HelpKINode Title="Container.YDim property" Url="html/f74b8fd4-cae1-ccdf-ecf0-a30ee5717e02.htm" />
+  <HelpKINode Title="Container.Z property" Url="html/757ec8ac-711b-465f-ca6e-7e631f9142e7.htm" />
+  <HelpKINode Title="ContainerBottom enumeration member" Url="html/53ff6091-9ff1-06b6-12d3-1391f607721b.htm" />
+  <HelpKINode Title="Containers property" Url="html/da299a5f-431e-cf12-613e-d4fb5de6f8bb.htm" />
+  <HelpKINode Title="ContainerStatus enumeration" Url="html/8cc4db54-94ce-cf47-910d-b8f523f6b56f.htm" />
+  <HelpKINode Title="Continue enumeration member" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+  <HelpKINode Title="CoreTipType enumeration" Url="html/4f0cc956-41f4-9066-b16c-2770f578af4b.htm" />
+  <HelpKINode Title="Count property" Url="html/ea27f140-2bc1-1957-6299-e2d05f604db6.htm" />
+  <HelpKINode Title="CoverOpenError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="DecapperError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="DecapperHandlingError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="Deck property" Url="html/64ea3112-c88e-2372-97a7-a3ee1a8b934d.htm" />
+  <HelpKINode Title="DelimiterError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="Depth property">
+    <HelpKINode Title="Container.Depth Property " Url="html/1af29b00-c884-e930-cf89-020f5b077420.htm" />
+    <HelpKINode Title="Rack.Depth Property " Url="html/92ffcd4a-58bd-9331-734e-350b403d7683.htm" />
+    <HelpKINode Title="Site.Depth Property " Url="html/72a32033-cca2-4291-3a41-02d41a308960.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Description property" Url="html/80627fd3-6383-26c2-939c-3a820532ff6a.htm" />
+  <HelpKINode Title="Diameter property">
+    <HelpKINode Title="Container.Diameter Property " Url="html/4312f530-1045-2bd6-33ff-9ed57be819e3.htm" />
+    <HelpKINode Title="Segment.Diameter Property " Url="html/cbbccaa6-ae96-fd9a-ad14-53b848732d1c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Dimension1 property" Url="html/515a3cde-e7ba-d6cb-1a6c-42193d6c99e5.htm" />
+  <HelpKINode Title="Dimension2 property" Url="html/0f3ff2e7-c994-ac44-6197-27a80c2f3b39.htm" />
+  <HelpKINode Title="Direction enumeration" Url="html/161d83b2-80f1-d8ad-5675-c294495b41d4.htm" />
+  <HelpKINode Title="Dispense method" Url="html/d6497ea8-f4f6-abcc-d9fb-0219877c9928.htm" />
+  <HelpKINode Title="DispenseMode enumeration" Url="html/6b666194-f48a-ae34-ab6e-c9cd44424afa.htm" />
+  <HelpKINode Title="DispenseMode property" Url="html/e0648752-8630-5ad8-b6c4-d83a5b805b37.htm" />
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="Rack.Dispose Method " Url="html/b9dc03db-c527-a63f-1725-aca4a19247ae.htm" />
+    <HelpKINode Title="STARCommand.Dispose Method " Url="html/dc46e21b-8ed1-1f52-6584-3b4e16ca807a.htm" />
+    <HelpKINode Title="STARDiscover.Dispose Method " Url="html/133be8b7-251e-870e-a829-86b0f4dd86cf.htm" />
+    <HelpKINode Title="STARRegistry.Dispose Method " Url="html/5a03e5eb-2eb8-9e54-7778-eab313c551f0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DrainTipInJetMode enumeration member" Url="html/6b666194-f48a-ae34-ab6e-c9cd44424afa.htm" />
+  <HelpKINode Title="EjectTip method" Url="html/7a525869-4422-7205-839b-d756beff7993.htm" />
+  <HelpKINode Title="End method" Url="html/fa4a3f39-ca94-6414-1021-ae3f6e99cdf6.htm" />
+  <HelpKINode Title="Error enumeration member">
+    <HelpKINode Title="ContainerStatus Enumeration" Url="html/8cc4db54-94ce-cf47-910d-b8f523f6b56f.htm" />
+    <HelpKINode Title="LabwareAction Enumeration" Url="html/2dc0942d-1529-15ef-0f39-7ab7ec42ef1d.htm" />
+    <HelpKINode Title="StepStatusEnum Enumeration" Url="html/e85812a2-ba3b-e99b-1ac9-1c505414bd8c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Error property" Url="html/5fa448b3-e3c1-f69a-8742-8228c6795a37.htm" />
+  <HelpKINode Title="ErrorCode property" Url="html/eb26f626-414f-c889-6855-6900a9616c91.htm" />
+  <HelpKINode Title="ErrorCurvesOnly enumeration member" Url="html/3566761b-e157-6619-8ca7-37c4e3a696fe.htm" />
+  <HelpKINode Title="ErrorDetail property" Url="html/95a510e2-db0a-c82f-81cb-edc3f56cf1a7.htm" />
+  <HelpKINode Title="ErrorRecoveryOption class">
+    <HelpKINode Title="ErrorRecoveryOption Class" Url="html/06319db3-4696-a1c8-d420-7487f98291b7.htm" />
+    <HelpKINode Title="constructor" Url="html/5e21db84-a231-1d5a-fdcf-646d97045919.htm" />
+    <HelpKINode Title="properties" Url="html/d81bf4d4-58f5-37d4-f118-e119bb5d0565.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorRecoveryOption.ErrorRecoveryOption constructor" Url="html/5e21db84-a231-1d5a-fdcf-646d97045919.htm" />
+  <HelpKINode Title="ErrorRecoveryOption.Recovery property" Url="html/0d5be42d-61f5-76de-c38c-d5ed98a9b9a4.htm" />
+  <HelpKINode Title="ErrorRecoveryOption.Repeatition property" Url="html/f716d2a2-2c29-5666-60ec-99f1f48d4ac2.htm" />
+  <HelpKINode Title="ErrorRecoveryOption.SecondRecovery property" Url="html/6ba2486a-0e65-146d-b8b8-fa9b5d854299.htm" />
+  <HelpKINode Title="ErrorRecoveryOptions class">
+    <HelpKINode Title="ErrorRecoveryOptions Class" Url="html/8f0aea1d-b3d3-ba12-6103-8788b9cdb804.htm" />
+    <HelpKINode Title="constructor" Url="html/178804f0-cf77-2117-9b75-e9f28dd746e4.htm" />
+    <HelpKINode Title="properties" Url="html/f9e62cc0-222a-be8d-a8c0-b31fa799d63c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorRecoveryOptions.CancelAllErrors property" Url="html/0a010d98-40b3-2b0e-4a07-a6d5158e4894.htm" />
+  <HelpKINode Title="ErrorRecoveryOptions.ErrorRecoveryOptions constructor" Url="html/178804f0-cf77-2117-9b75-e9f28dd746e4.htm" />
+  <HelpKINode Title="ErrorRecoveryOptions.RecoveryVisibility property" Url="html/324713e9-45f3-51c4-a8fa-8d272e9f5160.htm" />
+  <HelpKINode Title="Exclude enumeration member" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+  <HelpKINode Title="ExecutionError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="File property">
+    <HelpKINode Title="Container.File Property " Url="html/8002c227-0a30-eafc-8d74-06ffd7ff2bcd.htm" />
+    <HelpKINode Title="Rack.File Property " Url="html/db732ad4-d16e-c7c3-a540-46b442d2c724.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FirmwareError class">
+    <HelpKINode Title="FirmwareError Class" Url="html/aaa02864-ab73-24a3-1101-d7bb6cb2128d.htm" />
+    <HelpKINode Title="constructor" Url="html/5f7297f5-853d-4e4d-8198-fb1543ca3977.htm" />
+    <HelpKINode Title="methods" Url="html/b41e26ab-9215-45bb-40ae-71ad4acc9529.htm" />
+    <HelpKINode Title="properties" Url="html/3d651d65-e7b0-4e75-484f-f7f3ee621ffa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FirmwareError.Command property" Url="html/39a0f687-b740-11ae-c35c-3cbfbcf23d48.htm" />
+  <HelpKINode Title="FirmwareError.ErrorCode property" Url="html/eb26f626-414f-c889-6855-6900a9616c91.htm" />
+  <HelpKINode Title="FirmwareError.FirmwareError constructor" Url="html/5f7297f5-853d-4e4d-8198-fb1543ca3977.htm" />
+  <HelpKINode Title="FirmwareError.Node property" Url="html/45fc52c9-e4b0-59ff-6e9f-e0574d992f79.htm" />
+  <HelpKINode Title="FirmwareError.Parameter property" Url="html/afa42888-bb77-4d1f-95e0-d8f95797b172.htm" />
+  <HelpKINode Title="FirmwareError.Parse method" Url="html/a2e829bc-6c47-246d-2be2-2b1eb6fe6e2c.htm" />
+  <HelpKINode Title="FirmwareException class">
+    <HelpKINode Title="FirmwareException Class" Url="html/1c35174e-6102-d1c3-6a48-35b8089c7527.htm" />
+    <HelpKINode Title="constructor" Url="html/4fef013d-1556-9c47-d2cb-2d681112c753.htm" />
+    <HelpKINode Title="properties" Url="html/2ca9373c-b7e1-2c11-57db-cabecbcd4d02.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FirmwareException.Error property" Url="html/5fa448b3-e3c1-f69a-8742-8228c6795a37.htm" />
+  <HelpKINode Title="FirmwareException.FirmwareException constructor" Url="html/4fef013d-1556-9c47-d2cb-2d681112c753.htm" />
+  <HelpKINode Title="FixHeight property" Url="html/4f940a9d-525b-7476-ca00-c6f91fc0c7cd.htm" />
+  <HelpKINode Title="FixHeightParameter class">
+    <HelpKINode Title="FixHeightParameter Class" Url="html/9ba0ef67-5228-02c7-0ac1-84f99fa8750a.htm" />
+    <HelpKINode Title="constructor" Url="html/8f94222f-9d2c-0c1c-2a2d-b0905367fb5b.htm" />
+    <HelpKINode Title="properties" Url="html/27702387-8f4b-999c-cbd9-c6bd59790ed4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FixHeightParameter.AdvancedParameters property" Url="html/bd6d0680-93ee-894d-c57d-f6a352f57c14.htm" />
+  <HelpKINode Title="FixHeightParameter.FixHeight property" Url="html/4f940a9d-525b-7476-ca00-c6f91fc0c7cd.htm" />
+  <HelpKINode Title="FixHeightParameter.FixHeightParameter constructor" Url="html/8f94222f-9d2c-0c1c-2a2d-b0905367fb5b.htm" />
+  <HelpKINode Title="FixHeightParameter.LiquidClassParameter property" Url="html/9042a98d-6840-ef85-d560-c504d1b74e99.htm" />
+  <HelpKINode Title="FixHeightParameter.RetractDistanceForAirTransport property" Url="html/80b5a83a-f72d-44bc-1ff7-f3d71166a001.htm" />
+  <HelpKINode Title="Flash enumeration member" Url="html/4317be69-9d04-1a74-3efd-a9c32ac1ec4c.htm" />
+  <HelpKINode Title="Flash2 enumeration member" Url="html/4317be69-9d04-1a74-3efd-a9c32ac1ec4c.htm" />
+  <HelpKINode Title="Flashing enumeration member" Url="html/2dc0942d-1529-15ef-0f39-7ab7ec42ef1d.htm" />
+  <HelpKINode Title="FLAT_BS enumeration member" Url="html/bc5956e6-2e2b-7b11-7f36-3ba5db929413.htm" />
+  <HelpKINode Title="FormatTrace method" Url="html/bf6ec131-0e3c-bcec-7e52-ba5f43a04dbd.htm" />
+  <HelpKINode Title="FromLiquiClass enumeration member" Url="html/6b666194-f48a-ae34-ab6e-c9cd44424afa.htm" />
+  <HelpKINode Title="GetExcludeState method" Url="html/6f45deae-fb41-462b-e75b-c3ac653f0c73.htm" />
+  <HelpKINode Title="GetLastLiquidLevel method" Url="html/c84a13a6-930d-73cc-a559-2d9444b6efc9.htm" />
+  <HelpKINode Title="GetTrack method" Url="html/0e87d0b4-17cb-81ff-caaa-ebaf1a552d34.htm" />
+  <HelpKINode Title="GraphicPath property" Url="html/fd151781-936e-0d3d-4f4e-d91a2bb2bb2d.htm" />
+  <HelpKINode Title="HardwareError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="Heigh enumeration member" Url="html/d73f7289-4fa1-153d-625e-7edcecea1fac.htm" />
+  <HelpKINode Title="Height property" Url="html/980eb3e6-c9e0-41a4-75dc-043163afa5bc.htm" />
+  <HelpKINode Title="HelpPath property" Url="html/5a35d507-467c-8fd5-2341-c123858b122f.htm" />
+  <HelpKINode Title="HighVolumeTip enumeration member" Url="html/4f0cc956-41f4-9066-b16c-2770f578af4b.htm" />
+  <HelpKINode Title="HighVolumeTipFiltered enumeration member" Url="html/4f0cc956-41f4-9066-b16c-2770f578af4b.htm" />
+  <HelpKINode Title="Huarui.STARLine namespace" Url="html/757942f7-4d1e-0103-9a04-aee44e773ef8.htm" />
+  <HelpKINode Title="Huarui.STARLine.AdvancedParameter class" Url="html/c5eb59ab-44ba-ee94-779c-d137c4fd5630.htm" />
+  <HelpKINode Title="Huarui.STARLine.Arm class" Url="html/56e0a229-4592-4934-7dc7-7835c14f0669.htm" />
+  <HelpKINode Title="Huarui.STARLine.AspirateMode enumeration" Url="html/6c07796e-cd0f-a490-e48e-f9bb12231e09.htm" />
+  <HelpKINode Title="Huarui.STARLine.Channel class" Url="html/2ab3b138-9981-b3ba-4e93-c55fb120ea07.htm" />
+  <HelpKINode Title="Huarui.STARLine.CLLDParameter class" Url="html/4ebfdae6-4165-7efb-09fb-d5436fd727c1.htm" />
+  <HelpKINode Title="Huarui.STARLine.Container class" Url="html/8d92c535-5e6f-0f57-9e87-bef54a33caef.htm" />
+  <HelpKINode Title="Huarui.STARLine.ContainerStatus enumeration" Url="html/8cc4db54-94ce-cf47-910d-b8f523f6b56f.htm" />
+  <HelpKINode Title="Huarui.STARLine.CoreTipType enumeration" Url="html/4f0cc956-41f4-9066-b16c-2770f578af4b.htm" />
+  <HelpKINode Title="Huarui.STARLine.Direction enumeration" Url="html/161d83b2-80f1-d8ad-5675-c294495b41d4.htm" />
+  <HelpKINode Title="Huarui.STARLine.DispenseMode enumeration" Url="html/6b666194-f48a-ae34-ab6e-c9cd44424afa.htm" />
+  <HelpKINode Title="Huarui.STARLine.ErrorRecoveryOption class" Url="html/06319db3-4696-a1c8-d420-7487f98291b7.htm" />
+  <HelpKINode Title="Huarui.STARLine.ErrorRecoveryOptions class" Url="html/8f0aea1d-b3d3-ba12-6103-8788b9cdb804.htm" />
+  <HelpKINode Title="Huarui.STARLine.FirmwareError class" Url="html/aaa02864-ab73-24a3-1101-d7bb6cb2128d.htm" />
+  <HelpKINode Title="Huarui.STARLine.FirmwareException class" Url="html/1c35174e-6102-d1c3-6a48-35b8089c7527.htm" />
+  <HelpKINode Title="Huarui.STARLine.FixHeightParameter class" Url="html/9ba0ef67-5228-02c7-0ac1-84f99fa8750a.htm" />
+  <HelpKINode Title="Huarui.STARLine.IParameter interface" Url="html/e4f2924c-d6bf-a40f-3323-ce64f2779609.htm" />
+  <HelpKINode Title="Huarui.STARLine.LabwareAction enumeration" Url="html/2dc0942d-1529-15ef-0f39-7ab7ec42ef1d.htm" />
+  <HelpKINode Title="Huarui.STARLine.LabwareState enumeration" Url="html/4317be69-9d04-1a74-3efd-a9c32ac1ec4c.htm" />
+  <HelpKINode Title="Huarui.STARLine.LiquidClassParameter class" Url="html/cdd19938-8051-8362-ec3d-07184f58ba53.htm" />
+  <HelpKINode Title="Huarui.STARLine.LLDSensitivity enumeration" Url="html/d73f7289-4fa1-153d-625e-7edcecea1fac.htm" />
+  <HelpKINode Title="Huarui.STARLine.LLDsParameter class" Url="html/44c634fc-1da1-142d-ecd8-f9f3bd66f689.htm" />
+  <HelpKINode Title="Huarui.STARLine.MainErrorEnum enumeration" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="Huarui.STARLine.ModuleError class" Url="html/c405fdc3-fb00-4152-a0d3-225cfec7fd78.htm" />
+  <HelpKINode Title="Huarui.STARLine.ModuleErrorHandler interface" Url="html/f682400b-c59b-f258-330a-f5b29cf1b319.htm" />
+  <HelpKINode Title="Huarui.STARLine.ModuleErrors class" Url="html/ea14e0d3-6fea-d4e1-22ed-3aa0b4649070.htm" />
+  <HelpKINode Title="Huarui.STARLine.MovementType enumeration" Url="html/ff394a30-f875-04d3-9ce9-1e93649ad649.htm" />
+  <HelpKINode Title="Huarui.STARLine.MoveZEndMode enumeration" Url="html/53ff6091-9ff1-06b6-12d3-1391f607721b.htm" />
+  <HelpKINode Title="Huarui.STARLine.Rack class" Url="html/11797d14-73f2-628e-b4ce-0cc04cf1c357.htm" />
+  <HelpKINode Title="Huarui.STARLine.RackType enumeration" Url="html/e7ccd940-6be4-8dac-5abf-bb8ebd43b3ad.htm" />
+  <HelpKINode Title="Huarui.STARLine.RecoveryAction enumeration" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+  <HelpKINode Title="Huarui.STARLine.Segment class" Url="html/a6cee4cf-6f02-b009-c6ec-91e1c92b6340.htm" />
+  <HelpKINode Title="Huarui.STARLine.Shape enumeration" Url="html/bc5956e6-2e2b-7b11-7f36-3ba5db929413.htm" />
+  <HelpKINode Title="Huarui.STARLine.SideTouchParameter class" Url="html/2a110c17-3f17-6fb4-e9b7-395de2567185.htm" />
+  <HelpKINode Title="Huarui.STARLine.Site class" Url="html/655e500d-6658-d002-9b95-16c95a7f1ba5.htm" />
+  <HelpKINode Title="Huarui.STARLine.STARCommand class" Url="html/fd5ab728-3cae-25da-e498-6b1fb9086889.htm" />
+  <HelpKINode Title="Huarui.STARLine.STARDeviceCreatedEventHandler delegate" Url="html/1081b30d-6003-8a97-b893-8bf053c61f1e.htm" />
+  <HelpKINode Title="Huarui.STARLine.STARDeviceErrorOccuredEventHandler delegate" Url="html/e78b5557-c16e-5d9a-bbbe-c5939fc595ee.htm" />
+  <HelpKINode Title="Huarui.STARLine.STARDiscover class" Url="html/f4495782-9125-6484-7070-30fb095aaccd.htm" />
+  <HelpKINode Title="Huarui.STARLine.STAREventHandler delegate" Url="html/98605eed-12da-1055-d466-37abfea60e08.htm" />
+  <HelpKINode Title="Huarui.STARLine.STARException class" Url="html/39218f86-517c-4f38-2c62-a2e64310ad0f.htm" />
+  <HelpKINode Title="Huarui.STARLine.STARInstrumentDeckCreatedEventHandler delegate" Url="html/5aea4073-e579-cc55-fa12-fb87ae9f5ac6.htm" />
+  <HelpKINode Title="Huarui.STARLine.STARReceiveEventHandler delegate" Url="html/978bdb95-ef1a-c002-5d14-9c788ef57d48.htm" />
+  <HelpKINode Title="Huarui.STARLine.STARRegistry class" Url="html/41fded13-40a2-e250-266e-f4b91bb7b6e0.htm" />
+  <HelpKINode Title="Huarui.STARLine.STARSystemDeckCreatedEventHandler delegate" Url="html/f74fa2b1-b0eb-d965-c1a7-446f5a7b9a84.htm" />
+  <HelpKINode Title="Huarui.STARLine.StepResultEntry class" Url="html/4715e610-66c5-c3ed-379e-29f8c2295481.htm" />
+  <HelpKINode Title="Huarui.STARLine.StepStatusEnum enumeration" Url="html/e85812a2-ba3b-e99b-1ac9-1c505414bd8c.htm" />
+  <HelpKINode Title="Huarui.STARLine.TADMRecordMode enumeration" Url="html/81616caf-50f0-bc87-b425-9b065adc8d58.htm" />
+  <HelpKINode Title="Huarui.STARLine.TADMUploadMode enumeration" Url="html/3566761b-e157-6619-8ca7-37c4e3a696fe.htm" />
+  <HelpKINode Title="Huarui.STARLine.TouchOffParameter class" Url="html/bb8b3234-3f1b-eb07-bd15-ea5a0c3c7cc2.htm" />
+  <HelpKINode Title="Huarui.STARLine.ZMoveAfterDispense enumeration" Url="html/05d31610-150c-b249-c5b8-2d6c9285d4ab.htm" />
+  <HelpKINode Title="ID property" Url="html/e6be0a5d-8c67-db52-31a4-49531f7586e2.htm" />
+  <HelpKINode Title="Id property" Url="html/004afff3-458f-d336-0f29-4c0d26e2283d.htm" />
+  <HelpKINode Title="IllegalInterventionError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="IllegalTargetPlatePosition enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="ImageFile property" Url="html/e28332c1-7cce-1502-cf20-2e6141e96fa4.htm" />
+  <HelpKINode Title="ImpossibleToOccupyArea enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="ImproperAspirationDispenseError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="ImproperDispensationError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="Index property" Url="html/d0cf62a9-ebe3-edb9-6da6-14278eee7f57.htm" />
+  <HelpKINode Title="Init method" Url="html/223f6cb6-65fa-d411-08b6-b7411c3666d7.htm" />
+  <HelpKINode Title="Init3DSystemView method" Url="html/f83c6b85-dad5-bb6e-2fe9-c604d2530708.htm" />
+  <HelpKINode Title="Initialize enumeration member" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+  <HelpKINode Title="Initialize method" Url="html/c763ebb5-8f0a-ea7c-aa86-7bb0737ca933.htm" />
+  <HelpKINode Title="InstrumentName property" Url="html/283cffaf-d5e0-44e6-fd36-9147538564f4.htm" />
+  <HelpKINode Title="InsufficientLiquidError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="IParameter interface">
+    <HelpKINode Title="IParameter Interface" Url="html/e4f2924c-d6bf-a40f-3323-ce64f2779609.htm" />
+    <HelpKINode Title="properties" Url="html/754157d5-f5a8-8564-96c8-80cd5305e016.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IParameter.AdvancedParameters property" Url="html/85481ce4-1341-bc06-dbc9-b4492b7ecd18.htm" />
+  <HelpKINode Title="IParameter.LiquidClassParameter property" Url="html/4dd9a1f3-515a-a43b-25cf-be2be8416900.htm" />
+  <HelpKINode Title="IsBarcodeUnique property" Url="html/227d3cad-2e6b-f852-1f64-b5ed255c2843.htm" />
+  <HelpKINode Title="IsConnect property" Url="html/d94632a3-9eae-41fa-4895-38c1f3fcabb8.htm" />
+  <HelpKINode Title="IsContainerConnected property" Url="html/56fd5971-d3bf-3e43-83b7-4051ce25f15a.htm" />
+  <HelpKINode Title="IsFrontCoverLocked property" Url="html/0837d43d-7317-394c-3ca1-325a65da951e.htm" />
+  <HelpKINode Title="IsInitialized property" Url="html/96b1824b-8182-2bd4-ca0b-fca374e3f062.htm" />
+  <HelpKINode Title="IsInstalled property" Url="html/9e8f582e-b6e3-f6ca-e607-c2e7d2e3322e.htm" />
+  <HelpKINode Title="IsSampleTrackingEnabled property" Url="html/d762c6be-13c6-72c1-eabc-f6a3167c929b.htm" />
+  <HelpKINode Title="IsSimulation property" Url="html/2aa7e5f0-c412-9990-3968-f0b82814024a.htm" />
+  <HelpKINode Title="IsTADMActive property" Url="html/10fb6262-3a04-4a78-91e0-71254df86b04.htm" />
+  <HelpKINode Title="IsVisble property" Url="html/aec41291-94f9-de69-22a4-a9c41d359eee.htm" />
+  <HelpKINode Title="IsVisible property" Url="html/cc3e9758-c32e-b19c-a4c4-721b08d51daf.htm" />
+  <HelpKINode Title="Item property" Url="html/a2bf2a27-c655-d46c-6abd-1f4e5b08587e.htm" />
+  <HelpKINode Title="JetEmpty enumeration member" Url="html/6b666194-f48a-ae34-ab6e-c9cd44424afa.htm" />
+  <HelpKINode Title="JetPart enumeration member" Url="html/6b666194-f48a-ae34-ab6e-c9cd44424afa.htm" />
+  <HelpKINode Title="KitLotExpiredError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="Labware property" Url="html/4d07380c-12b6-a04f-ad88-2eb2cd9e60d5.htm" />
+  <HelpKINode Title="LabwareAction enumeration" Url="html/2dc0942d-1529-15ef-0f39-7ab7ec42ef1d.htm" />
+  <HelpKINode Title="LabwareClearanceHeight enumeration member" Url="html/53ff6091-9ff1-06b6-12d3-1391f607721b.htm" />
+  <HelpKINode Title="LabwareDefinition enumeration member" Url="html/d73f7289-4fa1-153d-625e-7edcecea1fac.htm" />
+  <HelpKINode Title="LabwareError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="LabwareGrippedError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="LabwareId property" Url="html/1323c3e5-e586-6382-9f86-43fb7f6876eb.htm" />
+  <HelpKINode Title="LabwareLostError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="LabwareName property" Url="html/8bbebbd9-d168-a32a-babe-20f6210d6ec8.htm" />
+  <HelpKINode Title="LabwarePath property" Url="html/4bb163cb-5c1c-ba9a-7700-cc687772305a.htm" />
+  <HelpKINode Title="LabwarePos property" Url="html/cc1675c2-f00f-8d0a-d628-da4fdcf2a657.htm" />
+  <HelpKINode Title="LabwareState enumeration" Url="html/4317be69-9d04-1a74-3efd-a9c32ac1ec4c.htm" />
+  <HelpKINode Title="LanguagePath property" Url="html/0c4e165e-1ec1-cd44-5cab-030adb7d5ea1.htm" />
+  <HelpKINode Title="LeftArm property" Url="html/99e989a3-d96d-5407-0a92-b7b4e2254d6a.htm" />
+  <HelpKINode Title="LiquidClass property" Url="html/22b711e6-da33-71e9-ff17-6d8e3762e0e2.htm" />
+  <HelpKINode Title="LiquidClassParameter class">
+    <HelpKINode Title="LiquidClassParameter Class" Url="html/cdd19938-8051-8362-ec3d-07184f58ba53.htm" />
+    <HelpKINode Title="constructor" Url="html/5e78ddd5-0cad-e5bd-cf5b-8447642ade28.htm" />
+    <HelpKINode Title="properties" Url="html/e01cdc06-567f-d0c6-e27f-08e73b8b4df3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LiquidClassParameter property">
+    <HelpKINode Title="CLLDParameter.LiquidClassParameter Property " Url="html/056f452f-9e7a-10e4-29b0-929238695f05.htm" />
+    <HelpKINode Title="FixHeightParameter.LiquidClassParameter Property " Url="html/9042a98d-6840-ef85-d560-c504d1b74e99.htm" />
+    <HelpKINode Title="IParameter.LiquidClassParameter Property " Url="html/4dd9a1f3-515a-a43b-25cf-be2be8416900.htm" />
+    <HelpKINode Title="LLDsParameter.LiquidClassParameter Property " Url="html/5a1d300a-088a-8bde-75ff-c96b21f104f0.htm" />
+    <HelpKINode Title="SideTouchParameter.LiquidClassParameter Property " Url="html/016454f6-5642-2f0d-adf3-31e719f7a4f3.htm" />
+    <HelpKINode Title="TouchOffParameter.LiquidClassParameter Property " Url="html/5f1b81b5-ead4-874d-edd6-583d2ef30fdd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LiquidClassParameter.DispenseMode property" Url="html/e0648752-8630-5ad8-b6c4-d83a5b805b37.htm" />
+  <HelpKINode Title="LiquidClassParameter.LiquidClass property" Url="html/22b711e6-da33-71e9-ff17-6d8e3762e0e2.htm" />
+  <HelpKINode Title="LiquidClassParameter.LiquidClassParameter constructor" Url="html/5e78ddd5-0cad-e5bd-cf5b-8447642ade28.htm" />
+  <HelpKINode Title="LiquidClassParameter.TipType property" Url="html/c91c1c65-b32d-4605-66e5-43000dc25cbb.htm" />
+  <HelpKINode Title="LiquidFollowing property" Url="html/9735b815-7158-b797-c592-3b8c3998127a.htm" />
+  <HelpKINode Title="LiquidLevelError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="LiquidSeekingStartPosition property" Url="html/16c6adeb-19fc-d493-2019-a4b3ce552cbf.htm" />
+  <HelpKINode Title="LiquidSeekValid property" Url="html/f9ef69c8-d24b-50ce-8523-72285ce13278.htm" />
+  <HelpKINode Title="LLDSensitivity enumeration" Url="html/d73f7289-4fa1-153d-625e-7edcecea1fac.htm" />
+  <HelpKINode Title="LLDsParameter class">
+    <HelpKINode Title="LLDsParameter Class" Url="html/44c634fc-1da1-142d-ecd8-f9f3bd66f689.htm" />
+    <HelpKINode Title="constructor" Url="html/0223ae3d-c278-7fe9-5aea-83128fcb916f.htm" />
+    <HelpKINode Title="properties" Url="html/69f9e704-fbe5-5837-1e3b-57d2775029b0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LLDsParameter.AdvancedParameters property" Url="html/95ec14bc-e3b1-cb12-926e-965d6a64672b.htm" />
+  <HelpKINode Title="LLDsParameter.cLLDSensitivity property" Url="html/4faafed6-21ad-f904-cac8-5a2f3a63fa90.htm" />
+  <HelpKINode Title="LLDsParameter.LiquidClassParameter property" Url="html/5a1d300a-088a-8bde-75ff-c96b21f104f0.htm" />
+  <HelpKINode Title="LLDsParameter.LLDsParameter constructor" Url="html/0223ae3d-c278-7fe9-5aea-83128fcb916f.htm" />
+  <HelpKINode Title="LLDsParameter.MaxHeightDifference property" Url="html/eab5b2ed-f4d1-200d-69bc-afbfd139062f.htm" />
+  <HelpKINode Title="LLDsParameter.pLLDSensitivity property" Url="html/4a57a015-dafb-0868-c4e5-8129a608b394.htm" />
+  <HelpKINode Title="LLDsParameter.SubmergeDepth property" Url="html/b6215ab9-046d-7eea-67e2-7180fdfe133e.htm" />
+  <HelpKINode Title="Load enumeration member" Url="html/4317be69-9d04-1a74-3efd-a9c32ac1ec4c.htm" />
+  <HelpKINode Title="LockFrontCover method" Url="html/5bf86c7f-8826-ed2c-d0fb-159bfbbf380a.htm" />
+  <HelpKINode Title="Log property" Url="html/77e7cb55-d26f-fcbe-1bbd-99cb769df812.htm" />
+  <HelpKINode Title="LogFilesPath property" Url="html/66516fb9-c807-803e-72a8-f9674de676b9.htm" />
+  <HelpKINode Title="Low enumeration member" Url="html/d73f7289-4fa1-153d-625e-7edcecea1fac.htm" />
+  <HelpKINode Title="MainError property">
+    <HelpKINode Title="ModuleError.MainError Property " Url="html/4eabd427-ec3f-f90b-dc87-e8a8fa851ddd.htm" />
+    <HelpKINode Title="StepResultEntry.MainError Property " Url="html/0c614fc8-11ca-673f-9c40-b5e53c87164a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MainErrorEnum enumeration" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="MaxHeight enumeration member" Url="html/53ff6091-9ff1-06b6-12d3-1391f607721b.htm" />
+  <HelpKINode Title="MaxHeight property" Url="html/3cca3148-4134-145d-1737-cc098dd8c90c.htm" />
+  <HelpKINode Title="MaxHeightDifference property" Url="html/eab5b2ed-f4d1-200d-69bc-afbfd139062f.htm" />
+  <HelpKINode Title="MaximalPosition property" Url="html/cbb93d9e-f449-648a-9d0c-efb6a9e59890.htm" />
+  <HelpKINode Title="MaxPipettingDepth property" Url="html/9a156874-0c77-4315-2b14-010ffc5ec4ca.htm" />
+  <HelpKINode Title="Medium enumeration member" Url="html/d73f7289-4fa1-153d-625e-7edcecea1fac.htm" />
+  <HelpKINode Title="MethodsPath property" Url="html/dceb7dd0-a363-46d9-975c-543f661f7578.htm" />
+  <HelpKINode Title="MinHeight property" Url="html/e0f4f8d9-7105-6c52-e65d-539aea0d1abc.htm" />
+  <HelpKINode Title="MinimalPosition property" Url="html/554ac115-73ea-5e2e-7ee3-205becd0ea30.htm" />
+  <HelpKINode Title="Minimized enumeration member" Url="html/05d31610-150c-b249-c5b8-2d6c9285d4ab.htm" />
+  <HelpKINode Title="MixCycle property" Url="html/48cdc4c8-3fa1-d913-6baa-60657f88d1f8.htm" />
+  <HelpKINode Title="MixPosition property" Url="html/0d26bbf5-140a-019f-2f24-c3a7d8433a79.htm" />
+  <HelpKINode Title="MixVolume property" Url="html/a95e420c-1fcd-1605-26fa-2a8a03ad9d1e.htm" />
+  <HelpKINode Title="Module property" Url="html/174afc78-f3d7-8281-48b4-c7dd19011198.htm" />
+  <HelpKINode Title="ModuleError class">
+    <HelpKINode Title="ModuleError Class" Url="html/c405fdc3-fb00-4152-a0d3-225cfec7fd78.htm" />
+    <HelpKINode Title="constructor" Url="html/d293e955-4fa1-5368-eec8-6922e4cb127e.htm" />
+    <HelpKINode Title="properties" Url="html/bd1a1595-8c6a-7e62-396c-4e0ecdf83037.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ModuleError.Description property" Url="html/80627fd3-6383-26c2-939c-3a820532ff6a.htm" />
+  <HelpKINode Title="ModuleError.ErrorDetail property" Url="html/95a510e2-db0a-c82f-81cb-edc3f56cf1a7.htm" />
+  <HelpKINode Title="ModuleError.Index property" Url="html/d0cf62a9-ebe3-edb9-6da6-14278eee7f57.htm" />
+  <HelpKINode Title="ModuleError.LabwareId property" Url="html/1323c3e5-e586-6382-9f86-43fb7f6876eb.htm" />
+  <HelpKINode Title="ModuleError.MainError property" Url="html/4eabd427-ec3f-f90b-dc87-e8a8fa851ddd.htm" />
+  <HelpKINode Title="ModuleError.Module property" Url="html/174afc78-f3d7-8281-48b4-c7dd19011198.htm" />
+  <HelpKINode Title="ModuleError.ModuleError constructor" Url="html/d293e955-4fa1-5368-eec8-6922e4cb127e.htm" />
+  <HelpKINode Title="ModuleError.Name property" Url="html/c66ffdec-3f21-d171-8c06-31e4c7e7f144.htm" />
+  <HelpKINode Title="ModuleError.PositionId property" Url="html/458e14c0-98d2-c1a2-c84f-f7b42ed150a7.htm" />
+  <HelpKINode Title="ModuleError.Recovery property" Url="html/e0353610-7d80-a0a5-4734-1cf395775b95.htm" />
+  <HelpKINode Title="ModuleError.SlaveError property" Url="html/6dac9b26-ba1d-4100-c6b0-9f1252bf5bec.htm" />
+  <HelpKINode Title="ModuleErrorHandler interface">
+    <HelpKINode Title="ModuleErrorHandler Interface" Url="html/f682400b-c59b-f258-330a-f5b29cf1b319.htm" />
+    <HelpKINode Title="methods" Url="html/6fbb5c57-00e6-e4a4-88bb-a46a4276f41c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ModuleErrorHandler.AskForRecovery method" Url="html/0de4cece-d111-3904-92f6-0b98755284bb.htm" />
+  <HelpKINode Title="ModuleErrors class">
+    <HelpKINode Title="ModuleErrors Class" Url="html/ea14e0d3-6fea-d4e1-22ed-3aa0b4649070.htm" />
+    <HelpKINode Title="constructor" Url="html/003e8339-e25a-228c-8d99-054c8e837022.htm" />
+    <HelpKINode Title="properties" Url="html/d5f78c03-f271-37c9-959c-fa91c451bdde.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ModuleErrors property" Url="html/5a87caaf-0ed9-fcdf-9516-e09253a13587.htm" />
+  <HelpKINode Title="ModuleErrors.ModuleErrors constructor" Url="html/003e8339-e25a-228c-8d99-054c8e837022.htm" />
+  <HelpKINode Title="ModuleErrors.StepName property" Url="html/78b3ddee-ee63-bfa4-bbf1-74f5253ebd72.htm" />
+  <HelpKINode Title="Monitoring enumeration member" Url="html/81616caf-50f0-bc87-b425-9b065adc8d58.htm" />
+  <HelpKINode Title="Move method">
+    <HelpKINode Title="Arm.Move Method " Url="html/c6a44d71-0d66-e63b-5bca-a3dd139e0fd9.htm" />
+    <HelpKINode Title="Channel.Move Method " Url="html/27b91566-fb6c-070c-bfbd-8f2f863fa144.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MovementType enumeration" Url="html/ff394a30-f875-04d3-9ce9-1e93649ad649.htm" />
+  <HelpKINode Title="MoveZEndMode enumeration" Url="html/53ff6091-9ff1-06b6-12d3-1391f607721b.htm" />
+  <HelpKINode Title="Name property" Url="html/c66ffdec-3f21-d171-8c06-31e4c7e7f144.htm" />
+  <HelpKINode Title="Next enumeration member" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+  <HelpKINode Title="NoCarrierBarcodeError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="NoCarrierError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="Node property" Url="html/45fc52c9-e4b0-59ff-6e9f-e0574d992f79.htm" />
+  <HelpKINode Title="NoError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="NoLabwareError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="None enumeration member">
+    <HelpKINode Title="ContainerStatus Enumeration" Url="html/8cc4db54-94ce-cf47-910d-b8f523f6b56f.htm" />
+    <HelpKINode Title="LabwareAction Enumeration" Url="html/2dc0942d-1529-15ef-0f39-7ab7ec42ef1d.htm" />
+    <HelpKINode Title="RecoveryAction Enumeration" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+    <HelpKINode Title="TADMUploadMode Enumeration" Url="html/3566761b-e157-6619-8ca7-37c4e3a696fe.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Normal enumeration member" Url="html/05d31610-150c-b249-c5b8-2d6c9285d4ab.htm" />
+  <HelpKINode Title="NotAspiratedError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="NotDetectedError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="NotExecutedError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="NoTipError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="Off enumeration member" Url="html/d73f7289-4fa1-153d-625e-7edcecea1fac.htm" />
+  <HelpKINode Title="OnAborted event" Url="html/163b61e5-b9ee-8939-ade3-efea187d8299.htm" />
+  <HelpKINode Title="OnConnect event" Url="html/6f856f73-71cc-40fd-7ea2-ad65a02622ea.htm" />
+  <HelpKINode Title="OnControlPanelComplete event" Url="html/2ea283d8-b97f-b6da-c81d-2aee018bd3ca.htm" />
+  <HelpKINode Title="OnDeviceCreated event" Url="html/5daac3e9-8725-22d3-7700-fe633d6db43b.htm" />
+  <HelpKINode Title="OnDeviceErrorOccured event" Url="html/4e7882b2-1649-b97e-ce2f-8601081ecdec.htm" />
+  <HelpKINode Title="OnDisconnect event" Url="html/f5baa3fa-53ae-7358-9c7f-ea0e11dbbe45.htm" />
+  <HelpKINode Title="OnEnded event" Url="html/fa57dcd2-36e3-0c39-3c0a-31d864fe8787.htm" />
+  <HelpKINode Title="OnInstrumentDeckCreated event" Url="html/cbf4a9c4-8304-7885-b65b-e9e9a2136bba.htm" />
+  <HelpKINode Title="OnPaused event" Url="html/73ef6d4b-67ab-871c-9d12-eb535b27d388.htm" />
+  <HelpKINode Title="OnPausing event" Url="html/b5ae7dee-1bb3-dc9d-b944-53d4d71a1be2.htm" />
+  <HelpKINode Title="OnReceive event" Url="html/55c2c37f-b0bb-6ccb-85fb-b567a432d477.htm" />
+  <HelpKINode Title="OnResumed event" Url="html/1a16f620-2451-bce6-c677-28499b45e5c4.htm" />
+  <HelpKINode Title="OnStarted event" Url="html/a1987afa-e66b-271b-9f48-01d7a5d120c7.htm" />
+  <HelpKINode Title="OnSystemDeckCreated event" Url="html/23a102cd-592d-8ce0-09de-5edee90df7f6.htm" />
+  <HelpKINode Title="Other enumeration member" Url="html/4f0cc956-41f4-9066-b16c-2770f578af4b.htm" />
+  <HelpKINode Title="Parameter property" Url="html/afa42888-bb77-4d1f-95e0-d8f95797b172.htm" />
+  <HelpKINode Title="ParameterError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="Parse method" Url="html/a2e829bc-6c47-246d-2be2-2b1eb6fe6e2c.htm" />
+  <HelpKINode Title="Pause method" Url="html/080f36fa-8ac2-040e-b73f-4a4da6ca977b.htm" />
+  <HelpKINode Title="PickupTip method" Url="html/f919fdd1-6d7a-bb7b-ed3c-b08ac0b7fa31.htm" />
+  <HelpKINode Title="pLLDSensitivity property" Url="html/4a57a015-dafb-0868-c4e5-8129a608b394.htm" />
+  <HelpKINode Title="Position property">
+    <HelpKINode Title="Arm.Position Property " Url="html/b0763b6c-d042-33e7-d3e0-cb207431963d.htm" />
+    <HelpKINode Title="Container.Position Property " Url="html/865b2973-bc59-e8fa-c15d-af63d4455e12.htm" />
+    <HelpKINode Title="StepResultEntry.Position Property " Url="html/ed7032fb-ea83-a30e-bc32-1625135f284a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PositionAboveTouch property" Url="html/b5ed3a40-7abf-f31a-623a-9809ea34b741.htm" />
+  <HelpKINode Title="PositionError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="PositionId property" Url="html/458e14c0-98d2-c1a2-c84f-f7b42ed150a7.htm" />
+  <HelpKINode Title="PrepareToLoad enumeration member" Url="html/4317be69-9d04-1a74-3efd-a9c32ac1ec4c.htm" />
+  <HelpKINode Title="PrepareToUnload enumeration member" Url="html/4317be69-9d04-1a74-3efd-a9c32ac1ec4c.htm" />
+  <HelpKINode Title="PressureLLDconsecutiveError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="PressureLLDError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="PressureThreshold property" Url="html/564b4b3c-102e-2d48-f043-8e1881e9ee0d.htm" />
+  <HelpKINode Title="Processed enumeration member">
+    <HelpKINode Title="ContainerStatus Enumeration" Url="html/8cc4db54-94ce-cf47-910d-b8f523f6b56f.htm" />
+    <HelpKINode Title="LabwareAction Enumeration" Url="html/2dc0942d-1529-15ef-0f39-7ab7ec42ef1d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Processing enumeration member">
+    <HelpKINode Title="ContainerStatus Enumeration" Url="html/8cc4db54-94ce-cf47-910d-b8f523f6b56f.htm" />
+    <HelpKINode Title="LabwareAction Enumeration" Url="html/2dc0942d-1529-15ef-0f39-7ab7ec42ef1d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Progress enumeration member" Url="html/e85812a2-ba3b-e99b-1ac9-1c505414bd8c.htm" />
+  <HelpKINode Title="Properties property" Url="html/70d6053f-8404-bbca-68b9-52bcb9be45e7.htm" />
+  <HelpKINode Title="QueryCarrierPresenceOnDeck method" Url="html/85f71d7d-829b-48d9-d38c-4ea650b0bc43.htm" />
+  <HelpKINode Title="Rack class">
+    <HelpKINode Title="Rack Class" Url="html/11797d14-73f2-628e-b4ce-0cc04cf1c357.htm" />
+    <HelpKINode Title="methods" Url="html/86ed6745-3820-b82c-d02b-ab2814700e8c.htm" />
+    <HelpKINode Title="properties" Url="html/51528901-7c50-c339-37dd-ceae04361a12.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Rack enumeration member" Url="html/e7ccd940-6be4-8dac-5abf-bb8ebd43b3ad.htm" />
+  <HelpKINode Title="Rack.AddContainerToRack method" Url="html/a2c230ec-bdf3-1d6c-adca-9902325d51cc.htm" />
+  <HelpKINode Title="Rack.AddLabware method" Url="html/56f60c57-fde1-46c5-8944-cb7d59c66a31.htm" />
+  <HelpKINode Title="Rack.AddLabwareToDeckSite method" Url="html/52697276-869a-5b45-fed9-45a9cebbb1c2.htm" />
+  <HelpKINode Title="Rack.Barcode property" Url="html/6dfc24fe-a9c8-c252-ed11-2ccf7ffb47de.htm" />
+  <HelpKINode Title="Rack.BarcodeMask property" Url="html/e04dd399-60c7-d67d-a1d9-8e3a07adbadb.htm" />
+  <HelpKINode Title="Rack.Color property" Url="html/926b0463-fe78-a3fe-dd0d-ac6586500114.htm" />
+  <HelpKINode Title="Rack.Containers property" Url="html/da299a5f-431e-cf12-613e-d4fb5de6f8bb.htm" />
+  <HelpKINode Title="Rack.Depth property" Url="html/92ffcd4a-58bd-9331-734e-350b403d7683.htm" />
+  <HelpKINode Title="Rack.Dispose method" Url="html/b9dc03db-c527-a63f-1725-aca4a19247ae.htm" />
+  <HelpKINode Title="Rack.File property" Url="html/db732ad4-d16e-c7c3-a540-46b442d2c724.htm" />
+  <HelpKINode Title="Rack.GetTrack method" Url="html/0e87d0b4-17cb-81ff-caaa-ebaf1a552d34.htm" />
+  <HelpKINode Title="Rack.Height property" Url="html/980eb3e6-c9e0-41a4-75dc-043163afa5bc.htm" />
+  <HelpKINode Title="Rack.ID property" Url="html/e6be0a5d-8c67-db52-31a4-49531f7586e2.htm" />
+  <HelpKINode Title="Rack.ImageFile property" Url="html/e28332c1-7cce-1502-cf20-2e6141e96fa4.htm" />
+  <HelpKINode Title="Rack.IsBarcodeUnique property" Url="html/227d3cad-2e6b-f852-1f64-b5ed255c2843.htm" />
+  <HelpKINode Title="Rack.IsContainerConnected property" Url="html/56fd5971-d3bf-3e43-83b7-4051ce25f15a.htm" />
+  <HelpKINode Title="Rack.IsVisible property" Url="html/cc3e9758-c32e-b19c-a4c4-721b08d51daf.htm" />
+  <HelpKINode Title="Rack.Item property" Url="html/a2bf2a27-c655-d46c-6abd-1f4e5b08587e.htm" />
+  <HelpKINode Title="Rack.Properties property" Url="html/70d6053f-8404-bbca-68b9-52bcb9be45e7.htm" />
+  <HelpKINode Title="Rack.RemoveFromDeck method" Url="html/e65c82a3-07c4-7814-9eb0-0647dcaa6d0c.htm" />
+  <HelpKINode Title="Rack.RenameLabware method" Url="html/61fe383e-5e87-6d6d-83a6-4e79372ce138.htm" />
+  <HelpKINode Title="Rack.Rotation property" Url="html/591905ca-b6f2-5949-63cd-5d3ca40d21fc.htm" />
+  <HelpKINode Title="Rack.Sites property" Url="html/030ebded-f97d-1d14-7440-579a460c9063.htm" />
+  <HelpKINode Title="Rack.Tag property" Url="html/e1055abd-5566-e1d7-cd68-5a0cf48353c3.htm" />
+  <HelpKINode Title="Rack.Type property" Url="html/f1b3d97d-57d5-d0d8-c0d1-f74e14abd525.htm" />
+  <HelpKINode Title="Rack.UpdateLoadedLabware method" Url="html/36ad4a40-df14-33a1-227c-6f0ead185be3.htm" />
+  <HelpKINode Title="Rack.UpdateUsedLabware method" Url="html/4e51ac01-9665-3074-e7a5-6323c5422723.htm" />
+  <HelpKINode Title="Rack.UpdateUsedPositions method" Url="html/d5afd0f6-94bb-6c15-031c-61032663e524.htm" />
+  <HelpKINode Title="Rack.Width property" Url="html/ba707b2d-6275-7517-f33f-ea9d115a4127.htm" />
+  <HelpKINode Title="Rack.X property" Url="html/b855e34c-9717-87c7-e6ee-409fe7a5e733.htm" />
+  <HelpKINode Title="Rack.Y property" Url="html/12c7036c-9835-8475-8ad0-58b5ebb466f6.htm" />
+  <HelpKINode Title="Rack.Z property" Url="html/a1569ca1-232c-8376-ff09-6f7322ed523a.htm" />
+  <HelpKINode Title="Racks property" Url="html/316b7aa9-bfe9-e665-1b3e-36fe44256e96.htm" />
+  <HelpKINode Title="RackType enumeration" Url="html/e7ccd940-6be4-8dac-5abf-bb8ebd43b3ad.htm" />
+  <HelpKINode Title="Recording enumeration member" Url="html/81616caf-50f0-bc87-b425-9b065adc8d58.htm" />
+  <HelpKINode Title="Recovery property">
+    <HelpKINode Title="ErrorRecoveryOption.Recovery Property " Url="html/0d5be42d-61f5-76de-c38c-d5ed98a9b9a4.htm" />
+    <HelpKINode Title="ModuleError.Recovery Property " Url="html/e0353610-7d80-a0a5-4734-1cf395775b95.htm" />
+    <HelpKINode Title="StepResultEntry.Recovery Property " Url="html/6f294c85-197f-5cc4-3837-e458ec9dd0fe.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RecoveryAction enumeration" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+  <HelpKINode Title="RecoveryVisibility property" Url="html/324713e9-45f3-51c4-a8fa-8d272e9f5160.htm" />
+  <HelpKINode Title="RECTANGLE enumeration member" Url="html/bc5956e6-2e2b-7b11-7f36-3ba5db929413.htm" />
+  <HelpKINode Title="Refill enumeration member" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+  <HelpKINode Title="Relative enumeration member" Url="html/ff394a30-f875-04d3-9ce9-1e93649ad649.htm" />
+  <HelpKINode Title="RemoveFromDeck method" Url="html/e65c82a3-07c4-7814-9eb0-0647dcaa6d0c.htm" />
+  <HelpKINode Title="RenameLabware method" Url="html/61fe383e-5e87-6d6d-83a6-4e79372ce138.htm" />
+  <HelpKINode Title="Repeat enumeration member" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+  <HelpKINode Title="Repeatition property" Url="html/f716d2a2-2c29-5666-60ec-99f1f48d4ac2.htm" />
+  <HelpKINode Title="Reserved enumeration member" Url="html/2dc0942d-1529-15ef-0f39-7ab7ec42ef1d.htm" />
+  <HelpKINode Title="Resume method" Url="html/3bd4d602-f174-bce3-b951-7867b5e9237b.htm" />
+  <HelpKINode Title="RetractDistanceForAirTransport property">
+    <HelpKINode Title="FixHeightParameter.RetractDistanceForAirTransport Property " Url="html/80b5a83a-f72d-44bc-1ff7-f3d71166a001.htm" />
+    <HelpKINode Title="SideTouchParameter.RetractDistanceForAirTransport Property " Url="html/2dd0d7c7-528d-76da-4bb6-e955cd500902.htm" />
+    <HelpKINode Title="TouchOffParameter.RetractDistanceForAirTransport Property " Url="html/918efc65-aed4-139d-aa0b-8e3f109a4849.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RightArm property" Url="html/97cd9a58-ac66-2235-e115-b96854583b44.htm" />
+  <HelpKINode Title="RND_BS enumeration member" Url="html/bc5956e6-2e2b-7b11-7f36-3ba5db929413.htm" />
+  <HelpKINode Title="Rotation property" Url="html/591905ca-b6f2-5949-63cd-5d3ca40d21fc.htm" />
+  <HelpKINode Title="RunId property" Url="html/e404088d-bfd5-54b3-49f5-2e21ddf22c1f.htm" />
+  <HelpKINode Title="RunName property" Url="html/14626782-94e5-4365-6def-75b904cb4a8e.htm" />
+  <HelpKINode Title="SecondRecovery property" Url="html/6ba2486a-0e65-146d-b8b8-fa9b5d854299.htm" />
+  <HelpKINode Title="Segment class">
+    <HelpKINode Title="Segment Class" Url="html/a6cee4cf-6f02-b009-c6ec-91e1c92b6340.htm" />
+    <HelpKINode Title="constructor" Url="html/b567858c-911d-6abe-8ee7-822f965a30cd.htm" />
+    <HelpKINode Title="properties" Url="html/86b3eaf2-5fe0-2377-657f-e281b79ca1af.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Segment.Diameter property" Url="html/cbbccaa6-ae96-fd9a-ad14-53b848732d1c.htm" />
+  <HelpKINode Title="Segment.Dimension1 property" Url="html/515a3cde-e7ba-d6cb-1a6c-42193d6c99e5.htm" />
+  <HelpKINode Title="Segment.Dimension2 property" Url="html/0f3ff2e7-c994-ac44-6197-27a80c2f3b39.htm" />
+  <HelpKINode Title="Segment.MaxHeight property" Url="html/3cca3148-4134-145d-1737-cc098dd8c90c.htm" />
+  <HelpKINode Title="Segment.MinHeight property" Url="html/e0f4f8d9-7105-6c52-e65d-539aea0d1abc.htm" />
+  <HelpKINode Title="Segment.Segment constructor" Url="html/b567858c-911d-6abe-8ee7-822f965a30cd.htm" />
+  <HelpKINode Title="Segment.Shape property" Url="html/0314e7bf-73e3-3da6-3f5a-991f55a63f4b.htm" />
+  <HelpKINode Title="Segments property" Url="html/a74249d6-45f6-1f50-d45a-857a9e057fca.htm" />
+  <HelpKINode Title="Selected enumeration member" Url="html/2dc0942d-1529-15ef-0f39-7ab7ec42ef1d.htm" />
+  <HelpKINode Title="Send method" Url="html/2311ab26-3667-89bb-f521-b8fec56b1d88.htm" />
+  <HelpKINode Title="SendFirmware method" Url="html/1195a12f-4667-0f91-2838-79801d77e344.htm" />
+  <HelpKINode Title="SetTipTrackSpeed method" Url="html/33610e47-7d4e-5b98-9cfb-6a7df64e4df0.htm" />
+  <HelpKINode Title="Shape enumeration" Url="html/bc5956e6-2e2b-7b11-7f36-3ba5db929413.htm" />
+  <HelpKINode Title="Shape property">
+    <HelpKINode Title="Container.Shape Property " Url="html/2c33219b-e061-fedb-c01b-689e43e589b4.htm" />
+    <HelpKINode Title="Segment.Shape Property " Url="html/0314e7bf-73e3-3da6-3f5a-991f55a63f4b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ShowId property" Url="html/1e93ea4d-68dd-bd43-42f2-ce8d329930b2.htm" />
+  <HelpKINode Title="SideTouchParameter class">
+    <HelpKINode Title="SideTouchParameter Class" Url="html/2a110c17-3f17-6fb4-e9b7-395de2567185.htm" />
+    <HelpKINode Title="constructor" Url="html/dc4e6e62-d437-4829-a3ed-98fb9b6f96ec.htm" />
+    <HelpKINode Title="properties" Url="html/ace6488b-91d1-2c4e-3368-10c37a8071fb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SideTouchParameter.AdvancedParameters property" Url="html/4c965fc5-6fcb-87c9-7c51-c0bd5e76dffe.htm" />
+  <HelpKINode Title="SideTouchParameter.LiquidClassParameter property" Url="html/016454f6-5642-2f0d-adf3-31e719f7a4f3.htm" />
+  <HelpKINode Title="SideTouchParameter.RetractDistanceForAirTransport property" Url="html/2dd0d7c7-528d-76da-4bb6-e955cd500902.htm" />
+  <HelpKINode Title="SideTouchParameter.SideTouchParameter constructor" Url="html/dc4e6e62-d437-4829-a3ed-98fb9b6f96ec.htm" />
+  <HelpKINode Title="Site class">
+    <HelpKINode Title="Site Class" Url="html/655e500d-6658-d002-9b95-16c95a7f1ba5.htm" />
+    <HelpKINode Title="constructor" Url="html/4a43c55e-782e-028d-ed7d-0831aedf562b.htm" />
+    <HelpKINode Title="properties" Url="html/ac6b682a-f5ba-d02b-5306-a649e6202b47.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Site.Depth property" Url="html/72a32033-cca2-4291-3a41-02d41a308960.htm" />
+  <HelpKINode Title="Site.Id property" Url="html/004afff3-458f-d336-0f29-4c0d26e2283d.htm" />
+  <HelpKINode Title="Site.Racks property" Url="html/316b7aa9-bfe9-e665-1b3e-36fe44256e96.htm" />
+  <HelpKINode Title="Site.ShowId property" Url="html/1e93ea4d-68dd-bd43-42f2-ce8d329930b2.htm" />
+  <HelpKINode Title="Site.Site constructor" Url="html/4a43c55e-782e-028d-ed7d-0831aedf562b.htm" />
+  <HelpKINode Title="Site.Visible property" Url="html/b1f66824-fa39-2946-ae53-bf8aa9133542.htm" />
+  <HelpKINode Title="Site.Width property" Url="html/f38e9e4d-9c15-8ea3-1e9d-3360f7e507d3.htm" />
+  <HelpKINode Title="Site.X property" Url="html/1e373b44-b1ab-6c03-4289-864ac4cb181e.htm" />
+  <HelpKINode Title="Site.Y property" Url="html/b4fb5b7d-081f-ea55-f80a-e38c71afbc95.htm" />
+  <HelpKINode Title="Site.Z property" Url="html/91ade86c-246d-1cc7-6b42-47667969a85f.htm" />
+  <HelpKINode Title="Sites property" Url="html/030ebded-f97d-1d14-7440-579a460c9063.htm" />
+  <HelpKINode Title="SlaveError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="SlaveError property">
+    <HelpKINode Title="ModuleError.SlaveError Property " Url="html/6dac9b26-ba1d-4100-c6b0-9f1252bf5bec.htm" />
+    <HelpKINode Title="StepResultEntry.SlaveError Property " Url="html/78e27a98-5eb0-097e-e5ec-4507d335c2d8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SlimTip300ul enumeration member" Url="html/4f0cc956-41f4-9066-b16c-2770f578af4b.htm" />
+  <HelpKINode Title="SlimTip300ulFiltered enumeration member" Url="html/4f0cc956-41f4-9066-b16c-2770f578af4b.htm" />
+  <HelpKINode Title="Speed property" Url="html/c3f8404f-1d70-1b37-029d-932a6283d3d3.htm" />
+  <HelpKINode Title="StandardVolumeTip enumeration member" Url="html/4f0cc956-41f4-9066-b16c-2770f578af4b.htm" />
+  <HelpKINode Title="StandardVolumeTipFiltered enumeration member" Url="html/4f0cc956-41f4-9066-b16c-2770f578af4b.htm" />
+  <HelpKINode Title="STARCommand class">
+    <HelpKINode Title="STARCommand Class" Url="html/fd5ab728-3cae-25da-e498-6b1fb9086889.htm" />
+    <HelpKINode Title="constructor" Url="html/3eb5677f-9117-4506-7643-181375924279.htm" />
+    <HelpKINode Title="events" Url="html/a23f61e8-b834-7100-f5bc-0aa31888ad6f.htm" />
+    <HelpKINode Title="methods" Url="html/2876f942-b54c-f3e5-03a3-40b4443f0b6b.htm" />
+    <HelpKINode Title="properties" Url="html/15df4fcb-adf1-76e6-ea16-9e41d1b3e1a0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="STARCommand.Abort method" Url="html/ab619dc3-fd06-286e-5617-fbeb26a056e3.htm" />
+  <HelpKINode Title="STARCommand.Channel property" Url="html/b48e267c-268b-c53b-ecbc-168502d7086f.htm" />
+  <HelpKINode Title="STARCommand.Deck property" Url="html/64ea3112-c88e-2372-97a7-a3ee1a8b934d.htm" />
+  <HelpKINode Title="STARCommand.Dispose method" Url="html/dc46e21b-8ed1-1f52-6584-3b4e16ca807a.htm" />
+  <HelpKINode Title="STARCommand.End method" Url="html/fa4a3f39-ca94-6414-1021-ae3f6e99cdf6.htm" />
+  <HelpKINode Title="STARCommand.FormatTrace method" Url="html/bf6ec131-0e3c-bcec-7e52-ba5f43a04dbd.htm" />
+  <HelpKINode Title="STARCommand.Init method" Url="html/223f6cb6-65fa-d411-08b6-b7411c3666d7.htm" />
+  <HelpKINode Title="STARCommand.Init3DSystemView method" Url="html/f83c6b85-dad5-bb6e-2fe9-c604d2530708.htm" />
+  <HelpKINode Title="STARCommand.Initialize method" Url="html/c763ebb5-8f0a-ea7c-aa86-7bb0737ca933.htm" />
+  <HelpKINode Title="STARCommand.InstrumentName property" Url="html/283cffaf-d5e0-44e6-fd36-9147538564f4.htm" />
+  <HelpKINode Title="STARCommand.IsFrontCoverLocked property" Url="html/0837d43d-7317-394c-3ca1-325a65da951e.htm" />
+  <HelpKINode Title="STARCommand.IsInitialized property" Url="html/96b1824b-8182-2bd4-ca0b-fca374e3f062.htm" />
+  <HelpKINode Title="STARCommand.IsSampleTrackingEnabled property" Url="html/d762c6be-13c6-72c1-eabc-f6a3167c929b.htm" />
+  <HelpKINode Title="STARCommand.IsSimulation property" Url="html/2aa7e5f0-c412-9990-3968-f0b82814024a.htm" />
+  <HelpKINode Title="STARCommand.IsTADMActive property" Url="html/10fb6262-3a04-4a78-91e0-71254df86b04.htm" />
+  <HelpKINode Title="STARCommand.LeftArm property" Url="html/99e989a3-d96d-5407-0a92-b7b4e2254d6a.htm" />
+  <HelpKINode Title="STARCommand.LockFrontCover method" Url="html/5bf86c7f-8826-ed2c-d0fb-159bfbbf380a.htm" />
+  <HelpKINode Title="STARCommand.Log property" Url="html/77e7cb55-d26f-fcbe-1bbd-99cb769df812.htm" />
+  <HelpKINode Title="STARCommand.OnAborted event" Url="html/163b61e5-b9ee-8939-ade3-efea187d8299.htm" />
+  <HelpKINode Title="STARCommand.OnControlPanelComplete event" Url="html/2ea283d8-b97f-b6da-c81d-2aee018bd3ca.htm" />
+  <HelpKINode Title="STARCommand.OnDeviceCreated event" Url="html/5daac3e9-8725-22d3-7700-fe633d6db43b.htm" />
+  <HelpKINode Title="STARCommand.OnDeviceErrorOccured event" Url="html/4e7882b2-1649-b97e-ce2f-8601081ecdec.htm" />
+  <HelpKINode Title="STARCommand.OnEnded event" Url="html/fa57dcd2-36e3-0c39-3c0a-31d864fe8787.htm" />
+  <HelpKINode Title="STARCommand.OnInstrumentDeckCreated event" Url="html/cbf4a9c4-8304-7885-b65b-e9e9a2136bba.htm" />
+  <HelpKINode Title="STARCommand.OnPaused event" Url="html/73ef6d4b-67ab-871c-9d12-eb535b27d388.htm" />
+  <HelpKINode Title="STARCommand.OnPausing event" Url="html/b5ae7dee-1bb3-dc9d-b944-53d4d71a1be2.htm" />
+  <HelpKINode Title="STARCommand.OnResumed event" Url="html/1a16f620-2451-bce6-c677-28499b45e5c4.htm" />
+  <HelpKINode Title="STARCommand.OnStarted event" Url="html/a1987afa-e66b-271b-9f48-01d7a5d120c7.htm" />
+  <HelpKINode Title="STARCommand.OnSystemDeckCreated event" Url="html/23a102cd-592d-8ce0-09de-5edee90df7f6.htm" />
+  <HelpKINode Title="STARCommand.Pause method" Url="html/080f36fa-8ac2-040e-b73f-4a4da6ca977b.htm" />
+  <HelpKINode Title="STARCommand.QueryCarrierPresenceOnDeck method" Url="html/85f71d7d-829b-48d9-d38c-4ea650b0bc43.htm" />
+  <HelpKINode Title="STARCommand.Resume method" Url="html/3bd4d602-f174-bce3-b951-7867b5e9237b.htm" />
+  <HelpKINode Title="STARCommand.RightArm property" Url="html/97cd9a58-ac66-2235-e115-b96854583b44.htm" />
+  <HelpKINode Title="STARCommand.RunId property" Url="html/e404088d-bfd5-54b3-49f5-2e21ddf22c1f.htm" />
+  <HelpKINode Title="STARCommand.RunName property" Url="html/14626782-94e5-4365-6def-75b904cb4a8e.htm" />
+  <HelpKINode Title="STARCommand.SendFirmware method" Url="html/1195a12f-4667-0f91-2838-79801d77e344.htm" />
+  <HelpKINode Title="STARCommand.STARCommand constructor" Url="html/3eb5677f-9117-4506-7643-181375924279.htm" />
+  <HelpKINode Title="STARCommand.Start method" Url="html/dd324c0b-c016-f0a5-9568-d266c666d917.htm" />
+  <HelpKINode Title="STARCommand.WaitConnection method" Url="html/3ec99c3f-d3ea-111a-af5f-433c1dc8c9f0.htm" />
+  <HelpKINode Title="STARDeviceCreatedEventHandler delegate" Url="html/1081b30d-6003-8a97-b893-8bf053c61f1e.htm" />
+  <HelpKINode Title="STARDeviceErrorOccuredEventHandler delegate" Url="html/e78b5557-c16e-5d9a-bbbe-c5939fc595ee.htm" />
+  <HelpKINode Title="STARDiscover class">
+    <HelpKINode Title="STARDiscover Class" Url="html/f4495782-9125-6484-7070-30fb095aaccd.htm" />
+    <HelpKINode Title="constructor" Url="html/cc6803cd-f6d4-f077-c4de-1bcf28366c30.htm" />
+    <HelpKINode Title="events" Url="html/f6713637-5783-9bce-7b2c-2c727dc05168.htm" />
+    <HelpKINode Title="methods" Url="html/4b77ed7e-7614-39b0-31f7-7612af0d48a4.htm" />
+    <HelpKINode Title="properties" Url="html/b4fafda6-b385-6fb2-dc56-dd8d6390d630.htm" />
+  </HelpKINode>
+  <HelpKINode Title="STARDiscover.Dispose method" Url="html/133be8b7-251e-870e-a829-86b0f4dd86cf.htm" />
+  <HelpKINode Title="STARDiscover.IsConnect property" Url="html/d94632a3-9eae-41fa-4895-38c1f3fcabb8.htm" />
+  <HelpKINode Title="STARDiscover.OnConnect event" Url="html/6f856f73-71cc-40fd-7ea2-ad65a02622ea.htm" />
+  <HelpKINode Title="STARDiscover.OnDisconnect event" Url="html/f5baa3fa-53ae-7358-9c7f-ea0e11dbbe45.htm" />
+  <HelpKINode Title="STARDiscover.OnReceive event" Url="html/55c2c37f-b0bb-6ccb-85fb-b567a432d477.htm" />
+  <HelpKINode Title="STARDiscover.Send method" Url="html/2311ab26-3667-89bb-f521-b8fec56b1d88.htm" />
+  <HelpKINode Title="STARDiscover.STARDiscover constructor" Url="html/cc6803cd-f6d4-f077-c4de-1bcf28366c30.htm" />
+  <HelpKINode Title="STARDiscover.Start method" Url="html/d9bf415e-0dd6-0753-73e3-b4556428d392.htm" />
+  <HelpKINode Title="STARDiscover.Stop method" Url="html/4e4d6c01-9478-cf40-9230-06720a8aa884.htm" />
+  <HelpKINode Title="STAREventHandler delegate" Url="html/98605eed-12da-1055-d466-37abfea60e08.htm" />
+  <HelpKINode Title="STARException class">
+    <HelpKINode Title="STARException Class" Url="html/39218f86-517c-4f38-2c62-a2e64310ad0f.htm" />
+    <HelpKINode Title="constructor" Url="html/5da03192-c468-ab0c-535c-b86c4bebbcfd.htm" />
+    <HelpKINode Title="properties" Url="html/1060fb37-a4f5-3c2c-16e5-9dc261b6cb79.htm" />
+  </HelpKINode>
+  <HelpKINode Title="STARException.ModuleErrors property" Url="html/5a87caaf-0ed9-fcdf-9516-e09253a13587.htm" />
+  <HelpKINode Title="STARException.STARException constructor" Url="html/5da03192-c468-ab0c-535c-b86c4bebbcfd.htm" />
+  <HelpKINode Title="STARInstrumentDeckCreatedEventHandler delegate" Url="html/5aea4073-e579-cc55-fa12-fb87ae9f5ac6.htm" />
+  <HelpKINode Title="STARReceiveEventHandler delegate" Url="html/978bdb95-ef1a-c002-5d14-9c788ef57d48.htm" />
+  <HelpKINode Title="STARRegistry class">
+    <HelpKINode Title="STARRegistry Class" Url="html/41fded13-40a2-e250-266e-f4b91bb7b6e0.htm" />
+    <HelpKINode Title="methods" Url="html/3d272325-7fd3-e673-d8a1-0875b7807f85.htm" />
+    <HelpKINode Title="properties" Url="html/c4883d84-7bf0-21d2-cf81-8a07335b93ae.htm" />
+  </HelpKINode>
+  <HelpKINode Title="STARRegistry.BinPath property" Url="html/45bbf6e1-b455-4913-79f7-b1260211e340.htm" />
+  <HelpKINode Title="STARRegistry.ConfigPath property" Url="html/ad986c91-af96-f3b7-34c6-cf88a5e49f25.htm" />
+  <HelpKINode Title="STARRegistry.Dispose method" Url="html/5a03e5eb-2eb8-9e54-7778-eab313c551f0.htm" />
+  <HelpKINode Title="STARRegistry.GraphicPath property" Url="html/fd151781-936e-0d3d-4f4e-d91a2bb2bb2d.htm" />
+  <HelpKINode Title="STARRegistry.HelpPath property" Url="html/5a35d507-467c-8fd5-2341-c123858b122f.htm" />
+  <HelpKINode Title="STARRegistry.LabwarePath property" Url="html/4bb163cb-5c1c-ba9a-7700-cc687772305a.htm" />
+  <HelpKINode Title="STARRegistry.LanguagePath property" Url="html/0c4e165e-1ec1-cd44-5cab-030adb7d5ea1.htm" />
+  <HelpKINode Title="STARRegistry.LogFilesPath property" Url="html/66516fb9-c807-803e-72a8-f9674de676b9.htm" />
+  <HelpKINode Title="STARRegistry.MethodsPath property" Url="html/dceb7dd0-a363-46d9-975c-543f661f7578.htm" />
+  <HelpKINode Title="STARSystemDeckCreatedEventHandler delegate" Url="html/f74fa2b1-b0eb-d965-c1a7-446f5a7b9a84.htm" />
+  <HelpKINode Title="Start enumeration member" Url="html/e85812a2-ba3b-e99b-1ac9-1c505414bd8c.htm" />
+  <HelpKINode Title="Start method">
+    <HelpKINode Title="STARCommand.Start Method " Url="html/dd324c0b-c016-f0a5-9568-d266c666d917.htm" />
+    <HelpKINode Title="STARDiscover.Start Method " Url="html/d9bf415e-0dd6-0753-73e3-b4556428d392.htm" />
+  </HelpKINode>
+  <HelpKINode Title="State property" Url="html/c0789ebe-b428-a5f2-55aa-bc154aa9b70a.htm" />
+  <HelpKINode Title="StepData property" Url="html/3cd455df-e273-38ab-a3ca-5d86e8e425eb.htm" />
+  <HelpKINode Title="StepName property" Url="html/78b3ddee-ee63-bfa4-bbf1-74f5253ebd72.htm" />
+  <HelpKINode Title="StepResultEntry class">
+    <HelpKINode Title="StepResultEntry Class" Url="html/4715e610-66c5-c3ed-379e-29f8c2295481.htm" />
+    <HelpKINode Title="constructor" Url="html/983cc0d7-d624-0189-622c-cebb7e244810.htm" />
+    <HelpKINode Title="properties" Url="html/d0538bfd-835b-d53c-1bae-703c6a54a620.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StepResultEntry.LabwareName property" Url="html/8bbebbd9-d168-a32a-babe-20f6210d6ec8.htm" />
+  <HelpKINode Title="StepResultEntry.LabwarePos property" Url="html/cc1675c2-f00f-8d0a-d628-da4fdcf2a657.htm" />
+  <HelpKINode Title="StepResultEntry.MainError property" Url="html/0c614fc8-11ca-673f-9c40-b5e53c87164a.htm" />
+  <HelpKINode Title="StepResultEntry.Position property" Url="html/ed7032fb-ea83-a30e-bc32-1625135f284a.htm" />
+  <HelpKINode Title="StepResultEntry.Recovery property" Url="html/6f294c85-197f-5cc4-3837-e458ec9dd0fe.htm" />
+  <HelpKINode Title="StepResultEntry.SlaveError property" Url="html/78e27a98-5eb0-097e-e5ec-4507d335c2d8.htm" />
+  <HelpKINode Title="StepResultEntry.StepData property" Url="html/3cd455df-e273-38ab-a3ca-5d86e8e425eb.htm" />
+  <HelpKINode Title="StepResultEntry.StepResultEntry constructor" Url="html/983cc0d7-d624-0189-622c-cebb7e244810.htm" />
+  <HelpKINode Title="StepStatusEnum enumeration" Url="html/e85812a2-ba3b-e99b-1ac9-1c505414bd8c.htm" />
+  <HelpKINode Title="Stop method" Url="html/4e4d6c01-9478-cf40-9230-06720a8aa884.htm" />
+  <HelpKINode Title="SubmergeDepth property">
+    <HelpKINode Title="CLLDParameter.SubmergeDepth Property " Url="html/2bc4ead3-5d85-1010-6b9f-03f12c246041.htm" />
+    <HelpKINode Title="LLDsParameter.SubmergeDepth Property " Url="html/b6215ab9-046d-7eea-67e2-7180fdfe133e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SurfaceEmpty enumeration member" Url="html/6b666194-f48a-ae34-ab6e-c9cd44424afa.htm" />
+  <HelpKINode Title="SurfacePart enumeration member" Url="html/6b666194-f48a-ae34-ab6e-c9cd44424afa.htm" />
+  <HelpKINode Title="SyntaxError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="TADMOvershot enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="TADMRecordMode enumeration" Url="html/81616caf-50f0-bc87-b425-9b065adc8d58.htm" />
+  <HelpKINode Title="TADMRecordMode property" Url="html/316d1b6c-3dbd-30a9-aab0-58249c9cd67c.htm" />
+  <HelpKINode Title="TADMUndershot enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="TADMUploadMode enumeration" Url="html/3566761b-e157-6619-8ca7-37c4e3a696fe.htm" />
+  <HelpKINode Title="TADMUploadMode property" Url="html/57ce0182-f6cd-a259-36a6-6c5d9731db67.htm" />
+  <HelpKINode Title="Tag property">
+    <HelpKINode Title="Container.Tag Property " Url="html/0cc7beca-0cca-32a1-1809-486da53e2b4e.htm" />
+    <HelpKINode Title="Rack.Tag Property " Url="html/e1055abd-5566-e1d7-cd68-5a0cf48353c3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TemperatureError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="Template enumeration member" Url="html/e7ccd940-6be4-8dac-5abf-bb8ebd43b3ad.htm" />
+  <HelpKINode Title="Tip4mlFiltered enumeration member" Url="html/4f0cc956-41f4-9066-b16c-2770f578af4b.htm" />
+  <HelpKINode Title="Tip50ul enumeration member" Url="html/4f0cc956-41f4-9066-b16c-2770f578af4b.htm" />
+  <HelpKINode Title="Tip5ml enumeration member" Url="html/4f0cc956-41f4-9066-b16c-2770f578af4b.htm" />
+  <HelpKINode Title="TipFiltered50ul enumeration member" Url="html/4f0cc956-41f4-9066-b16c-2770f578af4b.htm" />
+  <HelpKINode Title="TipPresentError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="TipType property" Url="html/c91c1c65-b32d-4605-66e5-43000dc25cbb.htm" />
+  <HelpKINode Title="TouchOffParameter class">
+    <HelpKINode Title="TouchOffParameter Class" Url="html/bb8b3234-3f1b-eb07-bd15-ea5a0c3c7cc2.htm" />
+    <HelpKINode Title="constructor" Url="html/1d0fee09-ad1f-6f9a-0a63-dd29126dd2ba.htm" />
+    <HelpKINode Title="properties" Url="html/b742dfd8-5af6-652a-cad5-439e3d69352c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TouchOffParameter.AdvancedParameters property" Url="html/dab71cfc-ee2f-601e-a6f2-272975a6839d.htm" />
+  <HelpKINode Title="TouchOffParameter.LiquidClassParameter property" Url="html/5f1b81b5-ead4-874d-edd6-583d2ef30fdd.htm" />
+  <HelpKINode Title="TouchOffParameter.PositionAboveTouch property" Url="html/b5ed3a40-7abf-f31a-623a-9809ea34b741.htm" />
+  <HelpKINode Title="TouchOffParameter.RetractDistanceForAirTransport property" Url="html/918efc65-aed4-139d-aa0b-8e3f109a4849.htm" />
+  <HelpKINode Title="TouchOffParameter.TouchOffParameter constructor" Url="html/1d0fee09-ad1f-6f9a-0a63-dd29126dd2ba.htm" />
+  <HelpKINode Title="TraverseHeight enumeration member" Url="html/53ff6091-9ff1-06b6-12d3-1391f607721b.htm" />
+  <HelpKINode Title="Type property" Url="html/f1b3d97d-57d5-d0d8-c0d1-f74e14abd525.htm" />
+  <HelpKINode Title="UnexpectedcLLDError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="UnexpectedLabwareError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="Unload enumeration member" Url="html/4317be69-9d04-1a74-3efd-a9c32ac1ec4c.htm" />
+  <HelpKINode Title="UnloadError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="UpdateLoadedLabware method" Url="html/36ad4a40-df14-33a1-227c-6f0ead185be3.htm" />
+  <HelpKINode Title="UpdateUsedLabware method" Url="html/4e51ac01-9665-3074-e7a5-6323c5422723.htm" />
+  <HelpKINode Title="UpdateUsedPositions method" Url="html/d5afd0f6-94bb-6c15-031c-61032663e524.htm" />
+  <HelpKINode Title="VCONE enumeration member" Url="html/bc5956e6-2e2b-7b11-7f36-3ba5db929413.htm" />
+  <HelpKINode Title="VCONE_BS enumeration member" Url="html/bc5956e6-2e2b-7b11-7f36-3ba5db929413.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/20d9a482-0731-4b11-8b67-f5a98c72c7f4.htm" />
+    <HelpKINode Title="history" Url="html/385a9834-d63d-4ae5-a4aa-e6d18bb708d6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VeryHight enumeration member" Url="html/d73f7289-4fa1-153d-625e-7edcecea1fac.htm" />
+  <HelpKINode Title="Visible property" Url="html/b1f66824-fa39-2946-ae53-bf8aa9133542.htm" />
+  <HelpKINode Title="WaitConnection method" Url="html/3ec99c3f-d3ea-111a-af5f-433c1dc8c9f0.htm" />
+  <HelpKINode Title="WaitForTadmUpload method" Url="html/804478e0-3476-0940-fa1c-1223c0494570.htm" />
+  <HelpKINode Title="WashLiquidError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="Waste enumeration member" Url="html/fb0c65a7-10e7-6a5e-4996-932ee964ab8e.htm" />
+  <HelpKINode Title="Welcome" Url="html/f77747c6-38fb-4696-93d1-1e2b054feb13.htm" />
+  <HelpKINode Title="Width property">
+    <HelpKINode Title="Rack.Width Property " Url="html/ba707b2d-6275-7517-f33f-ea9d115a4127.htm" />
+    <HelpKINode Title="Site.Width Property " Url="html/f38e9e4d-9c15-8ea3-1e9d-3360f7e507d3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WrapSize property" Url="html/d5987dce-31a4-e3de-c0cc-46dc7328edcd.htm" />
+  <HelpKINode Title="WrongCarrierError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="WrongLabwareError enumeration member" Url="html/a08cbd47-1b16-fe56-523d-88a433b42ba5.htm" />
+  <HelpKINode Title="X property">
+    <HelpKINode Title="Container.X Property " Url="html/c588e7d8-c4b7-8f3a-e471-a2df658e3cdc.htm" />
+    <HelpKINode Title="Rack.X Property " Url="html/b855e34c-9717-87c7-e6ee-409fe7a5e733.htm" />
+    <HelpKINode Title="Site.X Property " Url="html/1e373b44-b1ab-6c03-4289-864ac4cb181e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XAxis enumeration member" Url="html/161d83b2-80f1-d8ad-5675-c294495b41d4.htm" />
+  <HelpKINode Title="XDim property" Url="html/1d76bd5f-f22c-a642-0571-d1f2699c0c0d.htm" />
+  <HelpKINode Title="Y property">
+    <HelpKINode Title="Container.Y Property " Url="html/18d7e101-8153-b081-ba16-69cf97b8de7c.htm" />
+    <HelpKINode Title="Rack.Y Property " Url="html/12c7036c-9835-8475-8ad0-58b5ebb466f6.htm" />
+    <HelpKINode Title="Site.Y Property " Url="html/b4fb5b7d-081f-ea55-f80a-e38c71afbc95.htm" />
+  </HelpKINode>
+  <HelpKINode Title="YAxis enumeration member" Url="html/161d83b2-80f1-d8ad-5675-c294495b41d4.htm" />
+  <HelpKINode Title="YDim property" Url="html/f74b8fd4-cae1-ccdf-ecf0-a30ee5717e02.htm" />
+  <HelpKINode Title="YRaster property" Url="html/9f3b8cd4-afba-e809-f5d6-e8610ca3ae16.htm" />
+  <HelpKINode Title="Z property">
+    <HelpKINode Title="Container.Z Property " Url="html/757ec8ac-711b-465f-ca6e-7e631f9142e7.htm" />
+    <HelpKINode Title="Rack.Z Property " Url="html/a1569ca1-232c-8376-ff09-6f7322ed523a.htm" />
+    <HelpKINode Title="Site.Z Property " Url="html/91ade86c-246d-1cc7-6b42-47667969a85f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ZAxis enumeration member" Url="html/161d83b2-80f1-d8ad-5675-c294495b41d4.htm" />
+  <HelpKINode Title="ZMoveAfterDispense enumeration" Url="html/05d31610-150c-b249-c5b8-2d6c9285d4ab.htm" />
+  <HelpKINode Title="ZMOveAfterDispense property" Url="html/4d84c324-7f6a-ab4f-b825-a2172d864c4b.htm" />
+</HelpKI>
